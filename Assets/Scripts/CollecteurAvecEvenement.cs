@@ -16,3 +16,4 @@ public class CollecteurAvecEvenement : MonoBehaviour
         }
     }
 }
+//dans lui, si on fait une copie du collecteur(barils), les pointss vont augmenter aussi
